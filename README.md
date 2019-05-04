@@ -7,3 +7,4 @@
 * Pandas Techniques - https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
 * Data Exploration - https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
 * Data Munging - https://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/
+* Exploratory Analysis - https://www.analyticsvidhya.com/blog/2014/08/baby-steps-python-performing-exploratory-analysis-python/
