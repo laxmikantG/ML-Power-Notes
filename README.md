@@ -13,3 +13,4 @@
 * Probability Cheatsheet - https://www.sas.upenn.edu/~astocker/lab/teaching-files/PSYC739-2016/probability_cheatsheet.pdf
 * Statistics cheatsheet - http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
 * 5 Simple manipulations to extract maximum information out of your data - https://www.analyticsvidhya.com/blog/2013/11/simple-manipulations-extract-data/
+* Data Exploration - https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/
