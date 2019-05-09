@@ -11,3 +11,4 @@
 * Outliers Detection - https://www.analyticsvidhya.com/blog/2015/02/outliers-detection-treatment-dataset/
 * Data Exploration part 2  https://www.analyticsvidhya.com/blog/2015/02/7-steps-data-exploration-preparation-building-model-part-2/
 * Probability Cheatsheet - https://www.sas.upenn.edu/~astocker/lab/teaching-files/PSYC739-2016/probability_cheatsheet.pdf
+* Statistics cheatsheet - http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
