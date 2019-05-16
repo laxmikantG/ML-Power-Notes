@@ -15,3 +15,4 @@
 * 5 Simple manipulations to extract maximum information out of your data - https://www.analyticsvidhya.com/blog/2013/11/simple-manipulations-extract-data/
 * Data Exploration - https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/
    - PDF Version - https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf
+* A book for Multivariate Analysis - https://python-for-multivariate-analysis.readthedocs.io/
