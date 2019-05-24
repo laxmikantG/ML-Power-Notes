@@ -16,3 +16,16 @@
 * Data Exploration - https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/
    - PDF Version - https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf
 * A book for Multivariate Analysis - https://python-for-multivariate-analysis.readthedocs.io/
+
+## Machine Learning and Azure Training resources
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+http://mlr.cs.umass.edu/ml/
+https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
+https://medium.com/datadriveninvestor/the-containerization-of-machine-learning-tensorflow-kubernetes-and-kubeflow-93bcdfb01ad5
+https://medium.com/@bbideep/how-to-build-your-containerization-and-microservices-platform-on-amazon-web-services-aws-be4d2adefbf6
+https://medium.com/@gangareddy619/containerization-8a3fc9bf95a6
+https://medium.com/analytics-vidhya/how-to-use-tensorflow-serving-docker-container-for-model-testing-and-deployment-80a5e66322a5
+https://towardsdatascience.com/deploying-machine-learning-models-with-docker-5d22a4dacb5
+https://hub.docker.com/r/petronetto/machine-learning-alpine
+https://stackify.com/azure-container-instances/
+https://azure.microsoft.com/en-us/blog/7-best-practices-for-continuous-monitoring-with-azure-monitor/
