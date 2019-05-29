@@ -16,6 +16,9 @@
 * Data Exploration - https://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/
    - PDF Version - https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf
 * A book for Multivariate Analysis - https://python-for-multivariate-analysis.readthedocs.io/
+* Different flavours of logistic regression -
+  - https://tminka.github.io/papers/logreg/minka-logreg.pdf
+  - https://tminka.github.io/papers/logreg/
 
 ## Machine Learning and Azure Training resources
  
@@ -30,3 +33,4 @@
  * https://hub.docker.com/r/petronetto/machine-learning-alpine
  * https://stackify.com/azure-container-instances/
  * https://azure.microsoft.com/en-us/blog/7-best-practices-for-continuous-monitoring-with-azure-monitor/
+
